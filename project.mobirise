@@ -1,24 +1,26 @@
 {
   "settings": {
     "name": "portfolio_LEONIEBRUSSELMANS",
-    "currentPage": "installatie.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
       "styling": {},
       "additionalSetColors": [
-        "#777777"
+        "#777777",
+        "#252525"
       ]
     },
     "versionFirst": "4.3.2",
-    "uniqCompNum": 30,
-    "versionPublish": "4.6.5",
+    "uniqCompNum": 32,
+    "versionPublish": "4.7.7",
     "favicon": "",
     "noImageResize": "true",
     "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
     "google-analytics": "<!-- Global Site Tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-107772862-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-107772862-1');\r\n</script>",
     "path": "@PROJECT_PATH@",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "siteFonts": []
   },
   "pages": {
     "index.html": {
@@ -54,7 +56,7 @@
           },
           "title": "LEONIE BRUSSELMANS",
           "text": "Textiel ontwerp - Sint-Lucas Gent",
-          "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-default\" href=\"page5.html\" data-toolbar=\"-mbrBtnMove\">INSTALLATION</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-default\" href=\"page7.html\" data-toolbar=\"-mbrBtnMove\">AIMLESS<br></a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-default\" href=\"vileda.html\" data-toolbar=\"-mbrBtnMove\">VILEDA<br></a>  ",
+          "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-default\" href=\"installatie.html\" data-toolbar=\"-mbrBtnMove\">INSTALLATION</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-default\" href=\"timeless.html\" data-toolbar=\"-mbrBtnMove\">AIMLESS<br></a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-default\" href=\"vileda.html\" data-toolbar=\"-mbrBtnMove\">VILEDA</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-default\" href=\"furthermore.html\" data-toolbar=\"-mbrBtnMove\">FURTHERMORE<br></a>  ",
           "_tags": [
             "Theme"
           ],
@@ -66,7 +68,7 @@
               "color": "#b8312f"
             },
             ".btn": {
-              "font-size": "14px"
+              "font-size": "12px"
             }
           }
         },
@@ -101,7 +103,7 @@
           "_params": {
             "showMeta": true
           },
-          "title": "ALL RIGHTS RESERVED ©2018, LEONIE BRUSSELMANS",
+          "title": "<span style=\"font-weight: normal;\">ALL RIGHTS RESERVED ©2018, LEONIE BRUSSELMANS</span>",
           "meta": "",
           "_tags": [
             "Theme"
@@ -112,6 +114,9 @@
             "H3": {
               "font-size": "12px",
               "text-align": "center"
+            },
+            "SPAN": {
+              "color": "#cccccc"
             }
           }
         }
@@ -322,7 +327,7 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/dsc-719.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
@@ -332,14 +337,14 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/dsc-776.jpg",
-                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/dsc-757.jpg",
+                "active": true,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
-                "title": "Slide 2",
-                "contentAlign": "left",
-                "text": "Mobirise is based on Bootstrap 3 - most powerful mobile first framework. Use any bootstrap themes with no extra work.",
+                "title": "Slide 1",
+                "contentAlign": "right",
+                "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
@@ -378,9 +383,9 @@
               {
                 "image": "@PROJECT_PATH@/assets/images/dscf1329.jpg",
                 "active": false,
-                "showButtons": true,
-                "showText": true,
-                "showTitle": true,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
                 "title": "Slide 3",
                 "contentAlign": "center",
                 "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
@@ -407,7 +412,7 @@
           "_anchor": "slider2-f"
         },
         {
-          "text": "<p>This project started from my fascination for household textiles. I have a soft spot for ‘ household textiles ‘ like tablecloths, towels, rags, sponges, .... from here I started to combine them, then taking pictures of the combinations and started thinking why I love hese objects so much. And I came to the fact that this is because of the material, graphic patterns and the colors that are used. At first I dind’t know so well how to continue. but then I started do combine the patterns then go patterns, then connecting the used rags and started sewingen them together so it became a new household textile; tablecloth. Because who would like to eat on there used rags and mops. Then I wanted to reproduce it into a new clean tablecloth but still confront the person who would be eating on it with the idea of eating from a known mop and rag brand . The patterns in the finished product I’ve silkscreened.</p>",
+          "text": "<p><br></p><p>This project started from my fascination for household textiles. I have a soft spot for ‘ household textiles ‘ like tablecloths, towels, rags, sponges, .... from here I started to combine them, then taking pictures of the combinations and started thinking why I love hese objects so much. And I came to the fact that this is because of the material, graphic patterns and the colors that are used. At first I dind’t know so well how to continue. but then I started do combine the patterns then go patterns, then connecting the used rags and started sewingen them together so it became a new household textile; tablecloth. Because who would like to eat on there used rags and mops. Then I wanted to reproduce it into a new clean tablecloth but still confront the person who would be eating on it with the idea of eating from a known mop and rag brand . The patterns in the finished product I’ve silkscreened.<br></p>",
           "_tags": [
             "Theme"
           ],
@@ -426,7 +431,7 @@
           "_params": {
             "showMeta": true
           },
-          "title": "ALL RIGHTS RESERVERD ©2018, LEONIE BRUSSELMANS",
+          "title": "<span style=\"font-weight: normal;\">ALL RIGHTS RESERVERD ©2018, LEONIE BRUSSELMANS</span>",
           "meta": "",
           "_tags": [
             "Theme"
@@ -436,7 +441,8 @@
           "_styles": {
             "H3": {
               "font-size": "12px",
-              "text-align": "center"
+              "text-align": "center",
+              "color": "#c1c1c1"
             }
           }
         }
@@ -540,7 +546,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/img-1172.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
@@ -606,7 +612,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/img-1142.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
@@ -658,7 +664,7 @@
           "_anchor": "slider2-g"
         },
         {
-          "text": "<p>This installation came out of a research of matter.\nInitially I just was collecting all kinds of materials. Then I searched a way to make these different materials communicate with each other and with the textile. So I’m packing, wrapping, connecting,... them. Then  I wanted to let the created objects communicute on there turn with each other, and so It became a changeable installation to put them in a constant communication with each other.\nFurthermore, I rechearched the coincidences within combining wall paint and bale cotton, later on I I tried to put them in contrast with some ‘rougher’ materials.</p>",
+          "text": "<p><br></p><p>This installation came out of a research of matter.\nInitially I just was collecting all kinds of materials. Then I searched a way to make these different materials communicate with each other and with the textile. So I’m packing, wrapping, connecting,... them. Then  I wanted to let the created objects communicute on there turn with each other, and so It became a changeable installation to put them in a constant communication with each other.\nFurthermore, I rechearched the coincidences within combining wall paint and bale cotton, later on I I tried to put them in contrast with some ‘rougher’ materials. See, page 'furthermore'.<br></p>",
           "_tags": [
             "Theme"
           ],
@@ -674,7 +680,7 @@
           }
         },
         {
-          "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-link\" href=\"page6.html\" data-toolbar=\"-mbrBtnMove\">FURTHERMORE</a>",
+          "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-link\" href=\"furthermore.html\" data-toolbar=\"-mbrBtnMove\">FURTHERMORE</a>",
           "_tags": [
             "Theme"
           ],
@@ -690,7 +696,7 @@
           "_params": {
             "showMeta": true
           },
-          "title": "ALL RIGHTS RESERVERD ©2018, LEONIE BRUSSELMANS&nbsp;",
+          "title": "<span style=\"font-weight: normal;\">ALL RIGHTS RESERVERD ©2018, LEONIE BRUSSELMANS&nbsp;</span>",
           "meta": "",
           "_tags": [
             "Theme"
@@ -702,7 +708,11 @@
               "font-size": "12px",
               "font-family": "'Raleway', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "text-align": "center"
+              "text-align": "center",
+              "color": "#c1c1c1"
+            },
+            "SPAN": {
+              "color": "#cccccc"
             }
           }
         }
@@ -869,7 +879,7 @@
           "_anchor": "slider2-e"
         },
         {
-          "text": "<p>A book I made based on a text we had to read. This was my interpretation. It's about the repeatment of an action but it always turns out differently.</p>",
+          "text": "<p><br></p><p>A book I made based on a text we had to read. This was my interpretation. It's about the repeatment of an action but it always turns out differently.</p>",
           "_tags": [
             "Theme"
           ],
@@ -887,7 +897,7 @@
           "_params": {
             "showMeta": true
           },
-          "title": "ALL RIGHTS RESERVERD ©2018, LEONIE BRUSSELMANS",
+          "title": "<span style=\"font-weight: normal;\">ALL RIGHTS RESERVERD ©2018, LEONIE BRUSSELMANS</span>",
           "meta": "",
           "_tags": [
             "Theme"
@@ -900,6 +910,9 @@
               "font-family": "'Raleway', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
               "text-align": "center"
+            },
+            "SPAN": {
+              "color": "#cccccc"
             }
           }
         }
@@ -1077,10 +1090,18 @@
           "_anchor": "slider2-s"
         },
         {
+          "text": "<p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-v"
+        },
+        {
           "_params": {
             "showMeta": true
           },
-          "title": "ALL RIGHTS RESERVERD ©2018, LEONIE BRUSSELMANS",
+          "title": "<span style=\"font-weight: normal;\">ALL RIGHTS RESERVERD ©2018, LEONIE BRUSSELMANS</span>",
           "meta": "",
           "_tags": [
             "Theme"
@@ -1092,7 +1113,11 @@
               "font-size": "12px",
               "font-family": "'Raleway', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "text-align": "center"
+              "text-align": "center",
+              "color": "#cccccc"
+            },
+            "SPAN": {
+              "color": "#cccccc"
             }
           }
         }

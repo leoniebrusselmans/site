@@ -3,11 +3,14 @@
   color: #b8312f;
 }
 #header4-1 .btn {
-  font-size: 14px;
+  font-size: 12px;
 }
 #header3-k H3 {
   font-size: 12px;
   text-align: center;
+}
+#header3-k SPAN {
+  color: #cccccc;
 }
 
 
@@ -62,6 +65,7 @@
 #header3-l H3 {
   font-size: 12px;
   text-align: center;
+  color: #c1c1c1;
 }
 
 
@@ -99,6 +103,10 @@
   font-size: 12px;
   font-family: 'Raleway', sans-serif;
   text-align: center;
+  color: #c1c1c1;
+}
+#header3-o SPAN {
+  color: #cccccc;
 }
 
 
@@ -133,6 +141,9 @@
   font-family: 'Raleway', sans-serif;
   text-align: center;
 }
+#header3-q SPAN {
+  color: #cccccc;
+}
 
 
 
@@ -160,4 +171,8 @@
   font-size: 12px;
   font-family: 'Raleway', sans-serif;
   text-align: center;
+  color: #cccccc;
+}
+#header3-t SPAN {
+  color: #cccccc;
 }
