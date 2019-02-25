@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "portfolio_LEONIEBRUSSELMANS",
-    "currentPage": "index.html",
+    "currentPage": "page7.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -56,7 +56,7 @@
           },
           "title": "LEONIE BRUSSELMANS",
           "text": "Textiel ontwerp - Sint-Lucas Gent",
-          "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-default\" href=\"installatie.html\" data-toolbar=\"-mbrBtnMove\">INSTALLATION</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-default\" href=\"installatie.html\" data-toolbar=\"-mbrBtnMove\">WEFTS<br></a>  <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-default\" href=\"timeless.html\" data-toolbar=\"-mbrBtnMove\">AIMLESS<br></a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-default\" href=\"vileda.html\" data-toolbar=\"-mbrBtnMove\">VILEDA</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-default\" href=\"furthermore.html\" data-toolbar=\"-mbrBtnMove\">FURTHERMORE<br></a>  ",
+          "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-default\" href=\"installatie.html\" data-toolbar=\"-mbrBtnMove\">INSTALLATION</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-default\" href=\"page7.html\" data-toolbar=\"-mbrBtnMove\">///<br></a>    <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-default\" href=\"timeless.html\" data-toolbar=\"-mbrBtnMove\">AIMLESS<br></a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-default\" href=\"vileda.html\" data-toolbar=\"-mbrBtnMove\">VILEDA</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-default\" href=\"furthermore.html\" data-toolbar=\"-mbrBtnMove\">FURTHERMORE<br></a>  ",
           "_tags": [
             "Theme"
           ],
@@ -1280,7 +1280,7 @@
         },
         {
           "_params": {
-            "showText": true,
+            "showText": false,
             "outside": false
           },
           "media": {
