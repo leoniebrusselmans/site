@@ -12,8 +12,8 @@
       ]
     },
     "versionFirst": "4.3.2",
-    "uniqCompNum": 32,
-    "versionPublish": "4.7.7",
+    "uniqCompNum": 45,
+    "versionPublish": "4.9.3",
     "favicon": "",
     "noImageResize": "true",
     "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
@@ -42,7 +42,7 @@
             "showArrow": false,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mobirise-1.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/printa36-1.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#4c6972",
@@ -56,7 +56,7 @@
           },
           "title": "LEONIE BRUSSELMANS",
           "text": "Textiel ontwerp - Sint-Lucas Gent",
-          "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-default\" href=\"installatie.html\" data-toolbar=\"-mbrBtnMove\">INSTALLATION</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-default\" href=\"timeless.html\" data-toolbar=\"-mbrBtnMove\">AIMLESS<br></a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-default\" href=\"vileda.html\" data-toolbar=\"-mbrBtnMove\">VILEDA</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-default\" href=\"furthermore.html\" data-toolbar=\"-mbrBtnMove\">FURTHERMORE<br></a>  ",
+          "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-default\" href=\"installatie.html\" data-toolbar=\"-mbrBtnMove\">INSTALLATION</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-default\" href=\"installatie.html\" data-toolbar=\"-mbrBtnMove\">WEFTS<br></a>  <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-default\" href=\"timeless.html\" data-toolbar=\"-mbrBtnMove\">AIMLESS<br></a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-default\" href=\"vileda.html\" data-toolbar=\"-mbrBtnMove\">VILEDA</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-default\" href=\"furthermore.html\" data-toolbar=\"-mbrBtnMove\">FURTHERMORE<br></a>  ",
           "_tags": [
             "Theme"
           ],
@@ -73,31 +73,101 @@
           }
         },
         {
-          "_params": {
-            "showText": false,
-            "outside": false
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/mobirise-2.jpg",
-              "class": "mbr-figure__img",
-              "width": 1400,
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            }
-          },
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "text": "<p><br></p><p><br></p><p><br></p><p><br></p><p><br></p>",
           "_tags": [
-            "Theme"
+            "Thema"
           ],
-          "_name": "image2",
-          "_anchor": "image2-9"
+          "_name": "content1",
+          "_anchor": "content1-z"
+        },
+        {
+          "_inherit": "gallery1",
+          "_params": {
+            "fullWidth": false,
+            "noGutter": false,
+            "showText": false,
+            "showBullets": true,
+            "images": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/2b6118b2-afc1-4a09-aee7-33c51311d64f.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2b6118b2-afc1-4a09-aee7-33c51311d64f-800x535.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/4782de72-fcb9-4f19-8e7c-5eb32b8a3b56-1.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/4782de72-fcb9-4f19-8e7c-5eb32b8a3b56-1-800x450.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/786b9f6b-7ee7-4dc3-942b-03cd37d02ea5.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/786b9f6b-7ee7-4dc3-942b-03cd37d02ea5-800x535.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/e1ece178-bc89-47f9-9c06-d3c71ad4ed5c.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/e1ece178-bc89-47f9-9c06-d3c71ad4ed5c-800x535.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/1895823a-5531-45f1-ae5e-0b85b6f5a1cf.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/1895823a-5531-45f1-ae5e-0b85b6f5a1cf-800x535.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/720b1afa-b6d7-492c-8c90-5a5a0da008f2.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/720b1afa-b6d7-492c-8c90-5a5a0da008f2-800x600.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/87952686-129b-40af-b51d-56b405a066cb.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/87952686-129b-40af-b51d-56b405a066cb-800x600.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/131dcb0d-aaf8-41a7-9a7a-3096786a4387.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/131dcb0d-aaf8-41a7-9a7a-3096786a4387-800x600.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              }
+            ]
+          },
+          "articleLayout": true,
+          "_tags": [
+            "Thema"
+          ],
+          "_name": "gallery2",
+          "_anchor": "gallery2-x"
+        },
+        {
+          "text": "<p><br></p><p><br></p><p><br></p><p><br></p><p><br></p>",
+          "_tags": [
+            "Thema"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-10"
         },
         {
           "_params": {
@@ -137,7 +207,7 @@
       "settings": {
         "meta_descr": "Korea, Busan",
         "title": "privacy.html",
-        "order": 6
+        "order": 7
       },
       "components": [
         {
@@ -255,7 +325,7 @@
       "settings": {
         "meta_descr": "Site Generator Description",
         "title": "vileda",
-        "order": 3
+        "order": 4
       },
       "components": [
         {
@@ -452,7 +522,7 @@
       "settings": {
         "meta_descr": "Web Page Builder Description",
         "title": "installatie",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -722,7 +792,7 @@
       "settings": {
         "meta_descr": "Website Creator Description",
         "title": "timeless",
-        "order": 4
+        "order": 5
       },
       "components": [
         {
@@ -922,7 +992,7 @@
       "settings": {
         "meta_descr": "Web Creator Description",
         "title": "FURTHERMORE",
-        "order": 5
+        "order": 6
       },
       "components": [
         {
@@ -1120,6 +1190,149 @@
               "color": "#cccccc"
             }
           }
+        }
+      ]
+    },
+    "page7.html": {
+      "settings": {
+        "meta_descr": "Web Site Builder Description",
+        "title": "wefts",
+        "order": 2
+      },
+      "components": [
+        {
+          "text": "<p><br></p><p><br></p><p><br></p><p><br></p><p><br></p>",
+          "_tags": [
+            "Thema"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-18"
+        },
+        {
+          "_params": {
+            "showText": false,
+            "outside": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/df8f94e2-20c6-46c9-a495-0f668baeebe5.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Thema"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-11"
+        },
+        {
+          "text": "<p><br></p><p><br></p><p><br></p><p><br></p><p><br></p>",
+          "_tags": [
+            "Thema"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-15"
+        },
+        {
+          "_params": {
+            "showText": false,
+            "outside": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/a5cd80ac-07ec-4f36-ae6f-8bb900c58445.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Thema"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-12"
+        },
+        {
+          "text": "<p><br></p><p><br></p><p><br></p><p><br></p><p><br></p>",
+          "_tags": [
+            "Thema"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-14"
+        },
+        {
+          "_params": {
+            "showText": true,
+            "outside": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/fc079cdd-5213-4202-a2f2-67f01511dcd8.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Thema"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-13"
+        },
+        {
+          "text": "<p><br></p><p><br></p><p><br></p><p><br></p><p><br></p>",
+          "_tags": [
+            "Thema"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-16"
+        },
+        {
+          "_params": {
+            "showMeta": true
+          },
+          "title": "<span style=\"font-weight: normal;\">ALL RIGHTS RESERVED ©2018, LEONIE BRUSSELMANS</span>",
+          "meta": "",
+          "_tags": [
+            "Thema"
+          ],
+          "_name": "header3",
+          "_styles": {
+            "H3": {
+              "font-size": "12px",
+              "text-align": "center"
+            },
+            "SPAN": {
+              "color": "#cccccc"
+            }
+          },
+          "_anchor": "header3-17"
         }
       ]
     }
